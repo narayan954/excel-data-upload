@@ -1,0 +1,7 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+h4 {
+  color: green;
+}
